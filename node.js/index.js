@@ -7,8 +7,8 @@ const Smooch = require('smooch-core');
 
 // Config
 const PORT = 8000;
-const KEY_ID = 'your_key_id';
-const SECRET = 'your_secret_key';
+const KEY_ID = 'app_58a6eb6e56da52330013600a';
+const SECRET = 'f6eHnlqP8I5icpsa80iDOpnd';
 
 const smooch = new Smooch({
     keyId: KEY_ID,
